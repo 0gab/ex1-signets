@@ -1,0 +1,16 @@
+.enTete{
+  border: 1px solid white;
+  background-color: black;
+  color: #CCC;
+  font-size: 1.2em;
+
+  ul{
+  	list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    li{display: flex;justify-content: center; align-items: center;}
+    img{clip-path: circle(50% at center, 50%); margin-left: 20px;width: 50px;height: 50px;}
+  }
+}
