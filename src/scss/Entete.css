@@ -1,0 +1,28 @@
+.Entete {
+  background-color: black;
+  width: 100%;
+  padding: 20px 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.Entete h3, .Entete h4 {
+  color: white;
+  margin: 20px;
+}
+
+.Entete h4 {
+  margin-left: auto;
+}
+
+.Entete .Avatar {
+  margin-right: 20px;
+}
+/*# sourceMappingURL=Entete.css.map */
