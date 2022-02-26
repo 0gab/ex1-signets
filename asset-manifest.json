@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ex1-signets/static/css/main.6fc196c4.css",
+    "main.js": "/ex1-signets/static/js/main.e5b60c17.js",
+    "index.html": "/ex1-signets/index.html",
+    "main.6fc196c4.css.map": "/ex1-signets/static/css/main.6fc196c4.css.map",
+    "main.e5b60c17.js.map": "/ex1-signets/static/js/main.e5b60c17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fc196c4.css",
+    "static/js/main.e5b60c17.js"
+  ]
+}
